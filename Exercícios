@@ -66,3 +66,53 @@
     
    
  2- Faça um blogger em HTML 5 e CSS3: 
+ 
+ <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="background-color: #9370DB">
+
+
+   <h1 style="background-color:#4B0082;"><img src="https://webvolei.com.br/wp-content/uploads/2019/03/logo-WebVolei_white.png" data-retina="https://webvolei.com.br/wp-content/uploads/2019/03/logo-WebVolei_white.png"  width= 400 alt></h1>
+        <img style="border: 0" border="0" width="400" height="50" src="https://creatives.sportradarserving.com/2b2c68d9-1cec-453b-a432-afca29ec87ad/320x50.gif" alt>
+        
+        <form method="post" action="pagina_de_resultados.html">
+<input type="text" name="q" value="Pesquisar...">
+<input type="submit" value="Pesquisar">
+    </form>
+
+
+   <h2>Mundial de Vôlei: Brasil bate China de virada na última partida na 1ª fase</h2>
+<p>O Brasil venceu a China, de virada, hoje, na última partida da equipe pela primeira fase do Mundial feminino de vôlei, em Arnhem, na Holanda. A seleção brasileira perdeu a primeira parcial, mas reagiu e ficou com a vitória por 3 sets a 1 .</p>
+
+
+       <img src="https://conteudo.imguol.com.br/c/esporte/fb/2022/10/01/jogadoras-do-brasil-comemoram-ponto-contra-a-china-1664633435454_v2_450x450.jpg" style="width:100%;">
+<p1> (parciais de 23-25, 25-17, 25-22 e 25-22) </p1>
+
+
+   <h2> Mundial de Vôlei:Bélgica vence Cuba com facilidade na estreia do Mundial</h2>
+<p>A Bélgica venceu a jovem seleção cubana sem nenhuma dificuldade pelas parciais de 15 - 25, 12 - 25, 16 - 25 e somou três pontos na tabela no grupo D do Mundial Feminino de Volei.</p>
+
+
+       <img src="http://www.fivb.org/Vis2009/Images/GetImage.asmx?No=201453411&width=900&height=600&stretch=uniform" style="width:100%;">
+
+
+   <h2>Mundial de Vôlei: Japão vence Argentina com facilidade </h2>
+<p>Japão passa para a proxima etapa do mundial.</p>
+
+
+       <img src="https://webvolei.com.br/wp-content/uploads/2022/06/u4eho2oyh6ydfkflpytz-min.jpg" style="width:100%;">
+
+
+   <h2 class="title-subsection">Autor </h2>
+
+
+<a href="https://br.linkedin.com/in/lorenzo-rangel-toscano-584b90220" class="mail">Lorenzo Rangel Toscano </a>
+<br>
+<img loading="lazy" class="author-image img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpmnwl2h1Gsk6o8WU7G44AGS_j3CkitTU4VnyjsNlI-9y0cdTVkW5SY8zVhBuVyRpwtYE&usqp=CAU" alt="Lorenzo Rangel" pinger-seen="true">
+
+
+</body>
+</html>
